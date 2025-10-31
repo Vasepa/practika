@@ -6,4 +6,6 @@
 
 <img width="428" height="812" alt="изображение" src="https://github.com/user-attachments/assets/b86835e0-8056-4ad5-b80b-1a4401927085" />
 
-<img width="437" height="778" alt="изображение" src="https://github.com/user-attachments/assets/e72945ae-b0f3-49f6-b090-2b412944caf0" />
+<img width="431" height="751" alt="изображение" src="https://github.com/user-attachments/assets/b418d164-579b-4261-8fec-4fae8ac9e0a9" />
+
+<img width="416" height="408" alt="изображение" src="https://github.com/user-attachments/assets/1da34fa3-d556-41f6-927f-2a32100bc080" />
